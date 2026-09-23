@@ -81,7 +81,7 @@ Then add the following to display it in GitHub:
 
 ### Example
 
-![OpenAI Chatbot Interface](assets/chatbot_screenshot.png)
+![OpenAI Chatbot Interface](assets/chatbot_ss.png)
 
 ---
 
