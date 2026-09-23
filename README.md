@@ -98,7 +98,7 @@ python-dotenv
 OPENAI_CHATBOT/
 │
 ├── assets/
-│   └── chatbot_screenshot.png     # Application screenshot
+│   └── chatbot_ss.png     # Application screenshot
 │
 ├── chatbot_OpenAI.py              # Main Streamlit chatbot application
 ├── requirements.txt               # Python dependencies
