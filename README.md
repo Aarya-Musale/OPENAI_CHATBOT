@@ -66,21 +66,6 @@ The application uses Streamlit's native chat components to provide a clean brows
 
 Here is a look at the interactive OpenAI chatbot interface and streamed AI response:
 
-> Add your application screenshot inside an `assets/` folder.
-
-```text
-assets/
-└── chatbot_ss.png
-```
-
-Then add the following to display it in GitHub:
-
-```markdown
-![OpenAI Chatbot Interface](assets/chatbot_screenshot.png)
-```
-
-### Example
-
 ![OpenAI Chatbot Interface](assets/chatbot_ss.png)
 
 ---
