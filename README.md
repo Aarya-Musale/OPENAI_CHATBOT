@@ -67,6 +67,7 @@ The application uses Streamlit's native chat components to provide a clean brows
 Here is a look at the interactive OpenAI chatbot interface and streamed AI response:
 
 ![OpenAI Chatbot Interface](assets/chatbot_ss.png)
+
 (Note: Ensure your screenshot image file is placed inside an assets/ folder in your project directory, or update the path above to match where your image is saved).
 
 ---
