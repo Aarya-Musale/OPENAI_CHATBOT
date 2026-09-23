@@ -70,7 +70,7 @@ Here is a look at the interactive OpenAI chatbot interface and streamed AI respo
 
 ```text
 assets/
-└── chatbot_screenshot.png
+└── chatbot_ss.png
 ```
 
 Then add the following to display it in GitHub:
